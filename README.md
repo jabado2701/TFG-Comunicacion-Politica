@@ -10,7 +10,7 @@ El código almacenado en los distintos módulos del trabajo —aunque incluye co
 
 ---
 
-Este repositorio agrupa las tres piezas principales de un sistema para la recolección, análisis y visualización de mensajes políticos publicados en la red social X (anteriormente Twitter), centrado en la actividad de políticos españoles. Se compone de:
+Este repositorio agrupa las tres herramientas principales de un sistema para la recolección, análisis y visualización de mensajes políticos publicados en la red social X (anteriormente Twitter), centrado en la actividad de políticos españoles. Se compone de:
 
 * 🛰️ `recolector`: recolección, limpieza y traducción de publicaciones y comentarios.
 * 🧠 `clasificador_analisis`: entrenamiento y evaluación de modelos para clasificar el contenido político por **tema** y **tono**.
