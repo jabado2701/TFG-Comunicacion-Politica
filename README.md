@@ -6,7 +6,7 @@ Este proyecto forma parte de un **Trabajo de Fin de Título (TFT)** cuyo objetiv
 
 El código almacenado en los distintos módulos del trabajo —aunque incluye componentes software funcionales (recolector, clasificadores, app de análisis)— **sirve de apoyo a la investigación**, permitiendo recolectar, procesar y visualizar los datos necesarios para el análisis posterior.
 
-> 🧩 Las herramientas desarrolladas cumplen un rol vital dentro del TFT, pero **la finalidad del proyecto es puramente analítica**.
+> 🧩 Las herramientas desarrolladas cumplen un rol importante dentro del TFT, pero **la finalidad del proyecto es puramente analítica**.
 
 ---
 
