@@ -1,0 +1,9 @@
+[submodule "recolector"]
+	path = recolector
+	url = https://github.com/jabado2701/recolector.git
+[submodule "analisis-politico-x-twitter"]
+	path = analisis-politico-x-twitter
+	url = https://github.com/jabado2701/analisis-politico-x-twitter.git
+[submodule "clasificador_analisis"]
+	path = clasificador_analisis
+	url = https://github.com/jabado2701/clasificador_analisis.git
