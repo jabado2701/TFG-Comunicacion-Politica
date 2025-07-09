@@ -23,7 +23,7 @@ Este repositorio agrupa las tres piezas principales de un sistema para la recole
 | Módulo                                                                                     | Descripción                                                                                             |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
 | [`recolector`](https://github.com/jabado2701/recolector)                                   | Extrae metadatos, publicaciones y comentarios de políticos en X. Limpia y traduce los datos a español.  |
-| [`clasificador_analisis`](https://github.com/jabado2701/clasificador_analisis)             | Entrena clasificadores temáticos y de tono político usando Transformers. Incluye notebooks de análisis. |
+| [`clasificador_analisis`](https://github.com/jabado2701/clasificador_analisis)             | Entrena clasificadores temáticos y de tono político usando modelos preentrenados BERT. Incluye notebooks de análisis. |
 | [`analisis-politico-x-twitter`](https://github.com/jabado2701/analisis-politico-x-twitter) | App en Streamlit para analizar y visualizar la actividad política y el resultado de los clasificadores. |
 
 ---
