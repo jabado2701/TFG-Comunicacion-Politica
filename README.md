@@ -1,16 +1,16 @@
-# 📚 Trabajo de Fin de Título – Comunicación Política en X/Twitter
+# 📚 Trabajo de Fin de Título – Comunicación Política en redes sociales
 
 ## 🎓 Contexto académico
 
-Este proyecto forma parte de un **Trabajo de Fin de Título (TFT)** cuyo objetivo principal no es el desarrollo de herramientas, sino la **investigación en comunicación política a través de X/Twitter**.
+Este proyecto forma parte de un **Trabajo de Fin de Título (TFT)** cuyo objetivo principal no es el desarrollo de herramientas, sino la **investigación en comunicación política a través de las redes sociales y, en concreto, de X/Twitter**.
 
-El código aquí presente —aunque incluye componentes software funcionales (recolector, clasificadores, app de análisis)— **sirve de apoyo a la investigación**, permitiendo recolectar, procesar y visualizar los datos necesarios para el análisis empírico.
+El código aquí presente —aunque incluye componentes software funcionales (recolector, clasificadores, app de análisis)— **sirve de apoyo a la investigación**, permitiendo recolectar, procesar y visualizar los datos necesarios para el análisis posterior.
 
-> 🧩 Las herramientas desarrolladas cumplen un rol instrumental dentro del TFG, pero **la finalidad última es analítica y científica**, no la ingeniería de producto.
+> 🧩 Las herramientas desarrolladas cumplen un rol vital dentro del TFT, pero **la finalidad del proyecto es puramente analítica**.
 
 ---
 
-Este repositorio centraliza las tres piezas principales de un sistema para la recolección, análisis y visualización de mensajes políticos publicados en la red social X (anteriormente Twitter), centrado en la actividad de políticos españoles. Se compone de:
+Este repositorio agrupa las tres piezas principales de un sistema para la recolección, análisis y visualización de mensajes políticos publicados en la red social X (anteriormente Twitter), centrado en la actividad de políticos españoles. Se compone de:
 
 * 🛰️ `recolector`: recolección, limpieza y traducción de publicaciones y comentarios.
 * 🧠 `clasificador_analisis`: entrenamiento y evaluación de modelos para clasificar el contenido político por **tema** y **tono**.
@@ -64,10 +64,8 @@ pip install -r requirements.txt
 
 ## 🧠 Notas
 
-* Los archivos pesados (`.xlsx`) y modelos exportados (`safetensors`) han sido excluidos por tamaño. Deben colocarse manualmente en las carpetas indicadas en cada módulo.
+* Algunos archivos pesados (`.xlsx`) y modelos exportados (`safetensors`) han sido excluidos por tamaño. Deben colocarse manualmente en las carpetas indicadas en cada módulo.
 * Toda la información tratada en el proyecto es **pública**, extraída de fuentes oficiales como el Congreso de los Diputados, Wikipedia o X (Twitter).
 * Los clasificadores se pueden regenerar si se dispone de los datos etiquetados y los pesos de modelos.
 
 ---
-
-¿Quieres que lo añada como archivo `README.md` directamente en tu repositorio raíz también?
