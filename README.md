@@ -4,7 +4,7 @@
 
 Este proyecto forma parte de un **Trabajo de Fin de Título (TFT)** cuyo objetivo principal no es el desarrollo de herramientas, sino la **investigación en comunicación política a través de las redes sociales y, en concreto, de X/Twitter**.
 
-El código aquí presente —aunque incluye componentes software funcionales (recolector, clasificadores, app de análisis)— **sirve de apoyo a la investigación**, permitiendo recolectar, procesar y visualizar los datos necesarios para el análisis posterior.
+El código almacenado en los distintos módulos del trabajo —aunque incluye componentes software funcionales (recolector, clasificadores, app de análisis)— **sirve de apoyo a la investigación**, permitiendo recolectar, procesar y visualizar los datos necesarios para el análisis posterior.
 
 > 🧩 Las herramientas desarrolladas cumplen un rol vital dentro del TFT, pero **la finalidad del proyecto es puramente analítica**.
 
