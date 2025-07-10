@@ -1,7 +1,4 @@
 # 📚 Trabajo de Fin de Título – Comunicación Política en redes sociales
-
-Perfecto. A partir de lo que tu tutor te sugirió literalmente, aquí tienes una versión fiel, con ese giro positivo e inclusivo que quiere, y **solo añado sutiles ampliaciones para reforzar el mensaje**, sin modificar el núcleo de lo que te pidió:
-
 ---
 
 ## 🎓 Contexto académico
