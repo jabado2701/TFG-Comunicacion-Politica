@@ -1,14 +1,19 @@
 # 📚 Trabajo de Fin de Título – Comunicación Política en redes sociales
 
-## 🎓 Contexto académico
-
-Este proyecto forma parte de un **Trabajo de Fin de Título (TFT)** cuyo objetivo principal no es el desarrollo de herramientas, sino la **investigación en comunicación política a través de las redes sociales y, en concreto, de X/Twitter**.
-
-El código almacenado en los distintos módulos del trabajo —aunque incluye componentes software funcionales (recolector, clasificadores, app de análisis)— **sirve de apoyo a la investigación**, permitiendo recolectar, procesar y visualizar los datos necesarios para el análisis posterior.
-
-> 🧩 Las herramientas desarrolladas cumplen un rol importante dentro del TFT, pero **la finalidad del proyecto es puramente analítica**.
+Perfecto. A partir de lo que tu tutor te sugirió literalmente, aquí tienes una versión fiel, con ese giro positivo e inclusivo que quiere, y **solo añado sutiles ampliaciones para reforzar el mensaje**, sin modificar el núcleo de lo que te pidió:
 
 ---
+
+## 🎓 Contexto académico
+
+Este proyecto forma parte de un **Trabajo de Fin de Título (TFT)** cuyo objetivo principal es la **investigación en comunicación política en las redes sociales y, en concreto, en X/Twitter**. Para dar soporte a los objetivos del proyecto se han desarrollado algunas herramientas de software, cuyo código se incluye en este repositorio.
+
+Las herramientas desarrolladas —el recolector, los clasificadores y la aplicación de análisis— cumplen un rol importante dentro del TFG, aunque la finalidad principal del trabajo es el análisis de datos.
+
+> 📄 El proceso completo y los resultados del análisis se recogen en la memoria del TFG, que estará disponible de forma pública en la web de la Biblioteca de la ULPGC.
+
+---
+
 
 Este repositorio agrupa las tres herramientas principales de un sistema para la recolección, análisis y visualización de mensajes políticos publicados en la red social X (anteriormente Twitter), centrado en la actividad de políticos españoles. Se compone de:
 
