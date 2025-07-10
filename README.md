@@ -12,7 +12,7 @@ Las herramientas desarrolladas —el recolector, los clasificadores y la aplicac
 ---
 
 
-El repositorio agrupa las tres herramientas principales de un sistema para la recolección, análisis y visualización de mensajes políticos publicados en la red social X (anteriormente Twitter), centrado en la actividad de políticos españoles. Se compone de:
+El repositorio agrupa las tres herramientas principales de un sistema para la recolección, análisis y visualización de mensajes políticos publicados en la red social X/Twitter, centrado en la actividad de políticos españoles. Se compone de:
 
 * 🛰️ `recolector`: recolección, limpieza y traducción de publicaciones y comentarios.
 * 🧠 `clasificador_analisis`: entrenamiento y evaluación de modelos para clasificar el contenido político por **tema** y **tono**.
