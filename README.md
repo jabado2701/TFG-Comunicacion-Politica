@@ -5,9 +5,9 @@
 
 Este proyecto forma parte de un **Trabajo de Fin de Título (TFT)** cuyo objetivo principal es la **investigación en comunicación política en las redes sociales y, en concreto, en X/Twitter**. Para dar soporte a los objetivos del proyecto se han desarrollado algunas herramientas de software, cuyo código se incluye en este repositorio.
 
-Las herramientas desarrolladas —el recolector, los clasificadores y la aplicación de análisis— cumplen un rol importante dentro del TFG, aunque la finalidad principal del trabajo es el análisis de datos.
+Las herramientas desarrolladas —el recolector, los clasificadores y la aplicación de análisis— cumplen un rol importante dentro del TFT, aunque la finalidad principal del trabajo es el análisis de datos.
 
-> 📄 El proceso completo y los resultados del análisis se recogen en la memoria del TFG, que estará disponible de forma pública en la web de la Biblioteca de la ULPGC.
+> 📄 El proceso completo y los resultados del análisis se recogen en la memoria del TFT, que estará disponible de forma pública en la web de la Biblioteca de la ULPGC.
 
 ---
 
